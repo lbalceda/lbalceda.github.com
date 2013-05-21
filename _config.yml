@@ -70,10 +70,6 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: lbalceda
-twitter_tweet_count: 1
-twitter_show_replies: false
-twitter_follow_button: true
-twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # LinkedIn
@@ -103,5 +99,8 @@ linkedin_user: lbalceda
 # Google Analytics
 google_analytics_tracking_id: UA-39126012-1
 
+# Facebook
+facebook_user: luis.b
+
 # Facebook Like
-# facebook_like: false
+facebook_like: true
